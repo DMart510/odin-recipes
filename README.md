@@ -1,0 +1,1 @@
+This projects purpose is to test my basic HTML knowledge by creating a recipe webpage. Knowledge tested will be: Git Commits, HTML basics (ex. boilerplate format, divs, headers, body, img src, alt, etc) terminal commands to create parent directories and files for this website, using relative and absolute links for photo's and external sites on the internet.
